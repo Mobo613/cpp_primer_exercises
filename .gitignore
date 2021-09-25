@@ -1,1 +1,10 @@
 /.vscode
+!*.c
+!*.h
+!*.cpp
+!*.sh
+!*.xml
+!*.py
+!*.md
+!*.jar
+!.scala
